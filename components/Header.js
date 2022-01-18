@@ -18,9 +18,8 @@ function Header() {
             // variants={header}
             className="">
             <div className="">
-                <div className="relative flex items-center justify-between h-16 px-5">
-                    <a className="text-xl font-medium p-2 hover:bg-gray-200" href="">Cole Horvat</a>
-                    <a className="text-xl p-2 hover:bg-gray-200" href="/Cole_Horvat_Resume.pdf" target="_blank">Resume</a>
+                <div className="flex justify-center">
+                    <h1 className="py-2 text-4xl font-medium" href="">Animal Crossing Study</h1>
                     {/* ADD DARK MODE BUTTON LATER */}
                 </div>
             </div>
